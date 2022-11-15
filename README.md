@@ -23,9 +23,10 @@
 
 - 💬 Ask me about **Web vulnerabilities, Programming basic**
 
-- 📫 How to reach me **jesuser14s@gmail.com**
-- 📫 How to reach me **jesuser14s@wearehackerone.com**
-- 📫 How to reach me **jesuser14s@bugcrowdninja.com**
+- 📫 How to reach me **jesuser14@gmail.com**
+- 📫 How to reach me **jesuser14@wearehackerone.com**
+- 📫 How to reach me **jesuser14@bugcrowdninja.com**
+- 📫 How to reach me **jesuser14@intigriti.me**
 
 - 🌱 I’m currently learning **React.js, Java, JavaScript**
 
