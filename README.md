@@ -5,8 +5,7 @@
     <h3 align="center">A passionate Frontend developer, Software Programming Student, bounty hunter and technology enthusiast from Venezuela. I like to learn how to create to know how to break. Later I will publish some projects...</h3>
 </div>
 
-<div id="badges" align="center">
-    
+<div id="badges" align="center">    
     </a>
     <a href="https://www.youtube.com/user/jsusmaria" target="_blank">
         <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
