@@ -4,7 +4,6 @@
     <h3 align="center">A passionate Frontend developer, Software Programming Student, bounty hunter and technology enthusiast from Venezuela. I like to learn how to create to know how to break. Later I will publish some projects...</h3>
 </div>
 
-
 <div id="badges" align="center">
     </a>
     <a href="https://www.youtube.com/user/jsusmaria" target="_blank">
@@ -14,10 +13,14 @@
     <a href="https://twitter.com/jesuser14" target="_blank">
         <img src="https://img.shields.io/twitter/follow/jesuser14?color=blue&label=jesuser14&logo=twitter&style=for-the-badge"
             alt="Twitter Badge" />
-    </a>
-    
-   <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6bd4761402dc6dcc840506c83fc6b024a8f4c73977c23c2c38dcd608dfe45ead/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d626c61636b6861746574686963616c6861636b696e67267468656d653d6d6f6e6f6b6169"><img src="https://camo.githubusercontent.com/6bd4761402dc6dcc840506c83fc6b024a8f4c73977c23c2c38dcd608dfe45ead/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d626c61636b6861746574686963616c6861636b696e67267468656d653d6d6f6e6f6b6169" alt="summary" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesusmariabermudez&amp;theme=monokai" style="max-width: 100%;"></a></p>
+    </a> 
+   
 </div>
+
+<div id="header" align="center">
+       <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesusmariabermudez&amp&show_icons=true&theme=radical"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesusmariabermudez&amp&show_icons=true&theme=radical" alt="summary" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jesusmariabermudez&amp;theme=monokai" style="max-width: 100%;"></a></p>
+ </div>
+
 
 ---
 
